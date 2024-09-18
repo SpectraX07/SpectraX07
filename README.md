@@ -54,15 +54,15 @@ Welcome to my GitHub! I'm the developer behind [Phoolwalee](#) 🌸—an online 
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StrawHatLuffy07&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrawHatLuffy07&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SpectraX07&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpectraX07&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
 </details>
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=StrawHatLuffy07&hide_border=true&theme=radical" width="800px" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SpectraX07&hide_border=true&theme=radical" width="800px" />
 </details>
 
 <details>
@@ -84,7 +84,7 @@ Welcome to my GitHub! I'm the developer behind [Phoolwalee](#) 🌸—an online 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=StrawHatLuffy07&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" width="800px">
+  <img src="https://github-profile-trophy.vercel.app/?username=SpectraX07&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" width="800px">
 </p>
 
 ---
