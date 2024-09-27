@@ -64,6 +64,15 @@ Welcome to my GitHub! I'm the developer behind [Phoolwalee](#) 🌸—an online 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SpectraX07&hide_border=true&theme=radical" width="800px" />
 </details>
+[![An image of @spectrax07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spectrax07)](https://holopin.io/@spectrax07)
+
+<details>
+  <summary><b>☄️ Holopin Badges</b></summary>
+
+  <br />
+  <img height="180em" src="[https://github-readme-streak-stats.herokuapp.com/?user=SpectraX07&hide_border=true&theme=radical](https://holopin.io/@spectrax07)" width="800px" />
+  [![An image of @spectrax07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spectrax07)](https://holopin.io/@spectrax07)
+</details>
 
 <details>
   <br />
