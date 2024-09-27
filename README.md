@@ -69,7 +69,7 @@ Welcome to my GitHub! I'm the developer behind [Phoolwalee](#) 🌸—an online 
   <summary><b>☄️ Holopin Badges</b></summary>
 
   <br />
-  <img height="180em" src="https://holopin.me/spectrax07" width="800px" alt="Holopin Badges"/>
+  <img src="https://holopin.me/spectrax07" width="800px" alt="Holopin Badges"/>
 </details>
 
 <details>
