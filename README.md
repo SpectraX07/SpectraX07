@@ -1,6 +1,6 @@
 # Hi there, I'm Subrata Jana 👋
 
-Welcome to my GitHub! I'm the developer behind [Phoolwalee](#) 🌸—an online flower shop focusing on subscription and bulk orders. I enjoy building scalable web applications and learning new technologies.
+Welcome to my GitHub! 🌸 I specialize in developing online platforms and applications with a focus on e-commerce and scalable solutions. I enjoy building seamless user experiences, exploring new technologies, and delivering impactful digital solutions.
 
 ### 💻 About Me
 - 🔭 Currently working on: **Phoolwalee**
