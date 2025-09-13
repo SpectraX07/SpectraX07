@@ -1,9 +1,7 @@
 # Hi there, I'm Subrata Jana 👋
 
 
-# Welcome to my GitHub  
-
-I’m a **Backend Developer** specializing in building **scalable, high-performance applications** with clean architecture and reliable APIs.  
+Welcome to my GitHub, I’m a **Backend Developer** specializing in building **scalable, high-performance applications** with clean architecture and reliable APIs.  
 My focus is on designing systems that are **efficient, secure, and easy to maintain**.  
 
 ---
