@@ -1,16 +1,23 @@
 # Hi there, I'm Subrata Jana 👋
 
-Welcome to my GitHub!
 
-I’m a Backend Developer specializing in building scalable, high-performance applications with clean architecture and reliable APIs. My focus is on designing systems that are efficient, secure, and easy to maintain.
+# Welcome to my GitHub  
 
-🚀 Current Project: Neptune Holidays 🏝️
-A travel booking platform inspired by apps like MakeMyTrip, where I’m working on:
+I’m a **Backend Developer** specializing in building **scalable, high-performance applications** with clean architecture and reliable APIs.  
+My focus is on designing systems that are **efficient, secure, and easy to maintain**.  
 
-🔗 API development & integration for hotels, flights, and holiday packages
-🗄️ Database design & optimization for large-scale data handling
-⚡ Performance tuning for scalability and high availability
-🛠️ Implementing robust backend services with modular architecture
+---
+
+## 🚀 Current Project: Neptune Holidays 🏝️  
+
+A travel booking platform inspired by apps like **MakeMyTrip**, where I’m working on:  
+
+- 🔗 **API development & integration** for hotels, flights, and holiday packages  
+- 🗄️ **Database design & optimization** for large-scale data handling  
+- ⚡ **Performance tuning** for scalability and high availability  
+- 🛠️ **Implementing robust backend services** with modular architecture  
+
+---
 
 I enjoy solving complex backend challenges, exploring new technologies, and delivering impactful digital solutions that power seamless user experiences.
 
